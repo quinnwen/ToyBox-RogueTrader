@@ -1432,7 +1432,7 @@
     "Translated": null
   },
   "ToyBox_Features_LevelUp_TalentSelectionMultiplierFeature_Description": {
-    "Original": "Multiplies selectable career talent slots (1 = vanilla). Changes apply to the next level-up or respec session. Previously chosen talents remain visible at every setting.",
+    "Original": "Multiplies career talent selections (1 = normal). Learned talents remain after disabling, but extra choices are no longer shown in the career progression after reopening the character screen. Don't change this setting mid-levelup.",
     "Translated": null
   },
   "ToyBox_Features_Loot_LootAoEFeature_Name": {
