@@ -1427,6 +1427,14 @@
     "Original": "Apply Custom Level",
     "Translated": "应用自定义等级"
   },
+  "ToyBox_Features_LevelUp_TalentSelectionMultiplierFeature_Name": {
+    "Original": "Talent Selection Multiplier",
+    "Translated": "天赋选择倍率"
+  },
+  "ToyBox_Features_LevelUp_TalentSelectionMultiplierFeature_Description": {
+    "Original": "Multiplies selectable career talent slots (1 = vanilla). Changes apply to the next level-up or respec session. Previously chosen talents remain visible at every setting.",
+    "Translated": "倍增职业天赋选择栏位（1 = 原版）。修改将在下次升级或重新训练（洗点）时生效。无论当前倍率如何，已选天赋都会完整显示。"
+  },
   "ToyBox_Features_Loot_LootAoEFeature_Name": {
     "Original": "AoE Loot",
     "Translated": "范围拾取"

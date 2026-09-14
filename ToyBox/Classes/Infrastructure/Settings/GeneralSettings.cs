@@ -215,6 +215,7 @@ public class GeneralSettings : AbstractJsonSettings {
 
 
     // Level Up
+    public int TalentSelectionMultiplier = 1;
     public bool EnableRespecFromLevelX = false;
     public int? CurrentRespecLevelSetting = null;
     public bool EnableIgnoreArchetypePrerequisites = false;

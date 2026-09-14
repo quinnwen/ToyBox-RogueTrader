@@ -1427,6 +1427,14 @@
     "Original": "Apply Custom Level",
     "Translated": "Применить пользовательский уровень"
   },
+  "ToyBox_Features_LevelUp_TalentSelectionMultiplierFeature_Name": {
+    "Original": "Talent Selection Multiplier",
+    "Translated": "Множитель выбора талантов"
+  },
+  "ToyBox_Features_LevelUp_TalentSelectionMultiplierFeature_Description": {
+    "Original": "Multiplies selectable career talent slots (1 = vanilla). Changes apply to the next level-up or respec session. Previously chosen talents remain visible at every setting.",
+    "Translated": "Умножает число ячеек выбора талантов карьеры (1 = без изменений). Изменения действуют со следующего повышения уровня или переобучения. Ранее выбранные таланты отображаются при любом значении."
+  },
   "ToyBox_Features_Loot_LootAoEFeature_Name": {
     "Original": "AoE Loot",
     "Translated": "AoE сбор"
